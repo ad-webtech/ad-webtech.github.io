@@ -1,0 +1,68 @@
+ header{
+            font-family: arial;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            padding: 20px;
+        }
+        .brand-title{
+            font-size: 25px;
+            color: blue;
+            font-weight: bold;
+        }
+        nav span{
+            font-size: 18px;
+            margin-left: 20px;
+            margin-right: 20px;
+            color: rgb(124, 121, 121);
+
+        }
+        .btn-buy{
+            font-size: 15px;
+            background-color: blue;
+            color:white;
+            padding: 10px;
+            border-radius: 5px;
+            width: 200px;
+        }
+        .banner{
+            width: 50%;
+            float: right;
+        }
+        main{
+            margin-top: 100px;
+        }
+        .main-title{
+            font-size: 50px;
+            font-family: arial;
+            padding-left: 100px;
+            margin-bottom: 50px;
+        }
+        .main-subtitle{
+            font-size: 20px;
+            font-family: arial;
+            color: rgb(114, 113, 113);
+            padding-left: 100px;
+            margin-bottom: 40px;
+        }
+        .buttons-container{
+            padding-left: 100px;
+        }
+        button{
+            width: 200px;
+            height: 50px;
+            font-size: 18px;
+            font-family: arial;
+            border-radius: 5px;
+        }
+        .btn-pages{
+            background-color: blue;
+            color: white;
+            border: none;
+        }
+        .btn-doc{
+            background-color: rgb(223, 223, 250);
+            color: blue;
+            border: none;
+            margin-left: 10px;
+        }
